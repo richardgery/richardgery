@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Richard Gerry</h1>
-<h3 align="center">love coding and creating beautiful things which make life easier for people.</h3>
+<h3 align="center">love coding and creating simple things which make life easier for people.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgery&label=Profile%20views&color=0e75b6&style=flat" alt="richardgery" /> </p>
 
-- 🌱 I’m currently practice **Build a Survey Form Responsive Web Design Projects**
+- 🌱 I’m currently practice **Build a Product Landing Page Responsive Web Design Projects**
 
 - 👯 I’m looking to collaborate on [SecondHand](https://secondhandfrontend.herokuapp.com/)
 
