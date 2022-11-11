@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Gerry</h1>
-<h3 align="center">love coding and creating simple things which make life easier for people.</h3>
+<h3 align="center">I'm self-taught developer and create simple projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgery&label=Profile%20views&color=0e75b6&style=flat" alt="richardgery" /> </p>
 
