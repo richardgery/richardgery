@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgery&label=Profile%20views&color=0e75b6&style=flat" alt="richardgery" /> </p>
 
-- 🌱 I’m currently practice **Build a Product Landing Page Responsive Web Design Projects**
+- 🌱 I’m currently practice **Build a Technical Documentation Page Responsive Web Design Projects**
 
 - 👯 I’m looking to collaborate on [SecondHand](https://secondhandfrontend.herokuapp.com/)
 
