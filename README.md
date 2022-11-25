@@ -1,3 +1,4 @@
+[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development-1500x491.png)]
 <h1 align="center">Hi 👋, I'm Richard Gerry</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
