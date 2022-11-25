@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [SecondHand](https://secondhandfrontend.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [richardgery.github.io/Portfolio/](richardgery.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [richardgery.github.io/Portfolio/](https://richardgery.github.io/Portfolio/)
 
 - 💬 Ask me about **html, css and javascript**
 
