@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Gerry</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h3 align="center">A passionate front-end developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgery&label=Profile%20views&color=0e75b6&style=flat" alt="richardgery" /> </p>
