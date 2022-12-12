@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **html, css and javascript**
 
-- 📫 How to reach me **kancilcakep99@gmail.com**
+- 📫 How to reach me **richardgerry13@gmail.com**
 
 - ⚡ Fun fact **I think I am Just the way you are**
 
