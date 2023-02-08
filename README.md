@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgery&label=Profile%20views&color=0e75b6&style=flat" alt="richardgery" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Shopping Cart Project](https://github.com/richardgery/Simple-Ecommerce)
+- 🔭 I’m currently working on [Personal Portfolio Web](https://github.com/richardgery/Simple-Ecommerce)
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures**
 
