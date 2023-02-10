@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available at [richardgery.github.io/Portfolio/](richardgery.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [richardgery.github.io/Personal-Web/](richardgery.github.io/Personal-Web/)
 
 - 📫 How to reach me **richardgerry13@gmail.com**
 
