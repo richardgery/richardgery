@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardgery" alt="richardgery" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://richardgery.github.io/portfolio-tailwind-css/)
+- 🔭 I’m currently working on [Profile Card](https://richardgery.github.io/profile-card/)
 
 - 🌱 I’m currently learning **Programming Languages, Courses, etc.**
 
