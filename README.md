@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **richardgerry13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q1-woXJaO6iMw8VG95sljar3Fx4zp-bG/view?usp=sharing](https://drive.google.com/file/d/1Q1-woXJaO6iMw8VG95sljar3Fx4zp-bG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lRFbq4pW9Ak_goLs-SNqV8Nd7PbPdfgU/view?usp=sharing](https://drive.google.com/file/d/1lRFbq4pW9Ak_goLs-SNqV8Nd7PbPdfgU/view?usp=sharing)
 
 - ⚡ Fun fact **Fantasy is my second world**
 
